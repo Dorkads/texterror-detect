@@ -1,3 +1,4 @@
 lenta-ru-news.csv
 lenta.csv.gz
 processed_lenta.parquet
+lenta_typos.parquet
